@@ -1,0 +1,9 @@
+*
+!.gitignore
+!Makefile
+!Install_Dependencies.sh
+!Type_Ranking.cpp
+
+!Pokedex/
+!Pokedex/Makefile
+!Pokedex/Make_Pokedex.cpp
