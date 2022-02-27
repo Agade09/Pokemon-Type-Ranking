@@ -1,5 +1,6 @@
 *
 !.gitignore
+!README.md
 !Makefile
 !Install_Dependencies.sh
 !Type_Ranking.cpp
